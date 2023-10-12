@@ -1,0 +1,28 @@
+12/10/2023 10:45:37
+<br>
+Cannot insert the value NULL into column 'texto', table 'IssdTP42023.dbo.Blogs'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+12/10/2023 10:45:54
+<br>
+Cannot insert the value NULL into column 'texto', table 'IssdTP42023.dbo.Blogs'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+12/10/2023 10:46:17
+<br>
+Cannot insert the value NULL into column 'texto', table 'IssdTP42023.dbo.Blogs'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+12/10/2023 10:49:43
+
+Cannot insert the value NULL into column 'texto', table 'IssdTP42023.dbo.Blogs'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+
+<hr>
+
+12/10/2023 11:03:55
+Cannot insert the value NULL into column 'apellido', table 'IssdTP42023.dbo.Autores'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+12/10/2023 11:05:38
+Cannot insert the value NULL into column 'texto', table 'IssdTP42023.dbo.Blogs'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+

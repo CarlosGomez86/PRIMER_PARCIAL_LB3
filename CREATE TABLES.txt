@@ -1,0 +1,3 @@
+CREATE TABLE Autores(id int not null Primary Key,apellido varchar(50) not null,nombre varchar(50) not null );
+
+CREATE TABLE Blogs(id int not null Primary Key,texto varchar(max) not null,idAutor int not null, FOREIGN KEY (idAutor) REFERENCES Autores(id) );
